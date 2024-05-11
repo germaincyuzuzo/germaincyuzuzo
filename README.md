@@ -6,7 +6,7 @@
 <h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
 I'm a Website designer...😎 
 
-self motivation and natural passion for continuous learning and self-development.
+Eager to explore new tech self motivation and natural passion for continuous learning and self-development.
 
 <!-- <img src="https://github.com/rajput2107/rajput2107/blob/master/Assets/Handshake.gif" width="40px">I’m looking to collaborate on **Open-Source Projects** -->
 
