@@ -1,10 +1,10 @@
-### Hi there 👋, I am Germain Cyuzuzo!
+### Hi there , I am Germain Cyuzuzo!
 
 <!-- <img align="right" alt="Coding" width="300" height="250" src="https://github.com/Ayushparikh-code/Ayushparikh-code/blob/main/coding-freak%20(1).gif"> -->
-<img align="right" height="250" width="300" src="https://cdn.dribbble.com/users/2238041/screenshots/4763918/working.gif" /> </a>
+<img align="right" height="250" width="300" src="" /> </a>
 
-<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>🙋‍♂️ About me</h3>
-I'm a Website designer...😎 
+<h3><a id="user-content-about-me" class="anchor" aria-hidden="true" href="#about-me"></a>About me</h3>
+I develop cool web applications.
 
 Eager to explore new tech self motivation and natural passion for continuous learning and self-development.
 
@@ -17,6 +17,7 @@ Eager to explore new tech self motivation and natural passion for continuous lea
  
   [![Instagram Badge](https://img.shields.io/badge/instagram-833AB4?style=for-the-badge&logo=instagram&logoColor=#DE0404)](https://instagram.com/Kobegermain__360) 
   [![Mail Badge](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:cyuzuzokobegermain@gmail.com) 
+  
 <hr>
  [![GitHub Badge](https://img.shields.io/badge/GitHub-20232A?style=for-the-badge&logo=GitHub&logoColor=61DAFB)](https://github.com/germaincyuzuzo)
  [![c Badge](https://img.shields.io/badge/-c-A8B9CC?style=for-the-badge&labelColor=white&logo=c&logoColor=A8B9CC)](#)
